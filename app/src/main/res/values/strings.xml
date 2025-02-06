@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pomodoro</string>
+    <string name="timer">Zamanlayıcı</string>
+    <string name="stats">İstatistikler</string>
+    <string name="settings">Ayarlar</string>
+    <string name="timer_description">Zamanlayıcı</string>
+    <string name="completed_sessions">%d oturum tamamlandı</string>
+    <string name="notifications">Bildirimler</string>
+    <string name="save_settings">Ayarları Kaydet</string>
+    <string name="today">Bugün</string>
+    <string name="yesterday">Dün</string>
+    <string name="days_ago">%d gün önce</string>
+    <string name="duration_format">%d dk</string>
+    <string name="focus_duration">Odaklanma Süresi</string>
+    <string name="short_break_duration">Kısa Mola Süresi</string>
+    <string name="long_break_duration">Uzun Mola Süresi</string>
+    <string name="session_completed">Oturum Tamamlandı!</string>
+    <string name="productivity_score">Verimlilik Puanı</string>
+    <string name="break_time">Mola Zamanı!</string>
+    <string name="focus_time">Odaklanma Zamanı!</string>
+    <string name="your_progress">İlerlemeniz</string>
+    <string name="total_points">Toplam Puan</string>
+    <string name="best_streak">En İyi Seri</string>
+    <string name="daily_target">Günlük Hedef</string>
+    <string name="recent_activity">Son Aktiviteler</string>
+    <string name="nav_timer">Zamanlayıcı</string>
+    <string name="nav_stats">İstatistikler</string>
+    <string name="nav_settings">Ayarlar</string>
+    <string name="daily_target_sessions">Günlük Hedef Oturum Sayısı</string>
+    <string name="sessions_format">%d oturum</string>
+</resources>
