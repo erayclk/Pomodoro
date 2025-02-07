@@ -2,6 +2,14 @@
 
 Modern ve kullanıcı dostu bir Pomodoro zamanlayıcı uygulaması.
 
+## Ekran Görüntüleri
+
+<div align="center">
+  <img src="asset/zamanlayıcı.jpg" alt="Zamanlayıcı Ekranı" width="250"/>
+  <img src="asset/istatistik.jpg" alt="İstatistik Ekranı" width="250"/>
+  <img src="asset/ayarlar.jpg" alt="Ayarlar Ekranı" width="250"/>
+</div>
+
 ## Özellikler
 
 - 25/5 dakikalık klasik Pomodoro döngüsü
