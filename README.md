@@ -56,6 +56,3 @@ git clone https://github.com/yourusername/Pomodoro.git
 
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
 
-## İletişim
-
-Proje bağlantısı: [https://github.com/yourusername/Pomodoro](https://github.com/yourusername/Pomodoro)
